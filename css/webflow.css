@@ -921,7 +921,6 @@ textarea.w-select {
   position: relative;
   height: 300px;
   text-align: center;
-  background: rgba(153, 153, 153, 0.5);
   clear: both;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   tap-highlight-color: rgba(0, 0, 0, 0);
